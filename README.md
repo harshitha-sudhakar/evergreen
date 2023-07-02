@@ -2,7 +2,7 @@
 This is a place for you to start building your Maze Game!
 
 ###  Project Description
-A game where you can play mini levels to grow your garden!
+A game where you can grow your garden!
 
 ###  Attributions
 *If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
