@@ -1,6 +1,4 @@
 # Evergreen - a gardening game
-This is a place for you to start building your Maze Game!
-
 ###  Project Description
 A game where you can grow your garden!
 
